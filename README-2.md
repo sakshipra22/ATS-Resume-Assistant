@@ -77,7 +77,7 @@ streamlit run app.py
 ### 5. View ATS score, feedback, and keyword suggestions
 
 # Author
-## Aditya Das
+## Sakshipra22
 ## GitHub: [Sakshipra22](https://www.github.com/sakshipra22)
 
 # Future Improvements
@@ -85,4 +85,5 @@ streamlit run app.py
 - Resume parser for structured formats
 - Export feedback as PDF
 - Upload multiple JDs for comparison
+
 
