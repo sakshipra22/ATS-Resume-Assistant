@@ -1,0 +1,11 @@
+streamlit
+PyPDF2==3.0.1
+fastapi==0.104.1
+python-multipart==0.0.6
+uvicorn
+python-dotenv
+streamlit_extras
+langchain-google-genai
+langchain_pinecone
+langchain_core
+pinecone_client
