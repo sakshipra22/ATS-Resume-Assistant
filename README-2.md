@@ -46,7 +46,7 @@ SmartResumeAssistant/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/Aditya26Das/SmartResumeAssistant.git
+git clone https://github.com/Sakshipra22/SmartResumeAssistant.git
 cd SmartResumeAssistant
 ```
 ### 2. Set up the environment
@@ -78,10 +78,11 @@ streamlit run app.py
 
 # Author
 ## Aditya Das
-## GitHub: [Aditya26Das](https://www.github.com/Aditya26Das)
+## GitHub: [Sakshipra22](https://www.github.com/sakshipra22)
 
 # Future Improvements
 - Dashboard for history of analysis
 - Resume parser for structured formats
 - Export feedback as PDF
 - Upload multiple JDs for comparison
+
